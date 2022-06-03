@@ -30,9 +30,12 @@ domain: pennineway.info
 url: https://pennineway.info
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: chesterhow/tale
+
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
