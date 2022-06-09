@@ -5,6 +5,9 @@ permalink: /route/
 ---
 The Pennine Way can be comfortably divided up into 17 day-long stages
 
+<!-- 
+    - The first stage passes Kinder Scout, one of the most important places in the history of British walking.
+-->
 1. Edale to Crowden
 1. Crowden to Standedge
 1. Standedge to Calder Valley
