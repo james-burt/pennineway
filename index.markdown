@@ -4,3 +4,5 @@
 
 ---
 The Pennine Way is a 268-mile national trail from Edale to Kirk Yetholm, just the other side of the Scottish border. It opened in 1965 and was the UK's first such trail.
+
+ ![Pennine Way]({{ "/assets/moors.jpg" | relative_url }}) 

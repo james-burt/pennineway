@@ -17,6 +17,8 @@ Day 3 includes the impressive monument at Stoodley Pike, above the town of Todmo
 
 # Calder Valley to Ickornshaw
 # Ickornshaw to Malham
+![Gargrave](/assets/gargrave.jpg)
+
 # Malham to Horton-in-Ribblesdale
 The 6th day begins with Malham Cove, one of the hightlights of the Pennine Way. Towards the end of the day is the ascent of Pen-y-ghent (696m/2283ft) before descending into the village of Horton-in-Ribblesdale.
 # Horton-in-Ribblesdale to Hawes
@@ -25,7 +27,11 @@ Keld is the point at which the Pennine Way crosses the Coast-to-Coast path.
 # Keld to Tan Hill
 The isolated [Tan Hill Inn](https://www.tanhillinn.com/) (528m/1,732ft) is the highest pub in the British Isles.
 # Tan Hill to Middleton-in-Teesdale
-# Middleton-in-Teesdale to Dufton
+# Middleton-in-Teesdale to Dufton (20 miles)
+This is by far my favourite section of the trail. The day begins by following the river Tees, with the impressive waterfalls at Low Force and High Force. There is a section below cliffs leading to another waterfall at Cauldron Snout. The day finished with High Cup Nick, possibly one of the best views in England. 
+
+![High Cup Nick](/assets/highcupnick.jpg)
+
 # Dufton to Alston
 This section includes Cross Fell (893m/2,930ft), the highest point of the Pennine Way.
 
