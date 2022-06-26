@@ -1,0 +1,31 @@
+---
+layout: page
+title: "The Route"
+permalink: /route/
+---
+The Pennine Way can be comfortably divided up into 17 day-long stages
+
+<!-- 
+    - The first stage passes Kinder Scout, one of the most important places in the history of British walking.
+-->
+# Edale to Crowden
+Starting out in the village of Edale, the trail begins with a steep climb up the stairs of Jacob's Ladder to pass round the famous summits of Kinder Scout and Bleaklow, crossing the A57 Snake Road before reaching Torside Reservoir and Crowden. Andrew McCloy writes about this section that '*There are tales of miserable, limping walkers throwing in the towel when they reach the A57, less than ten miles from the start at Edale, and wearily trudging the two and a half miles down the road to the Snake Pass Inn, or even west to Glossop. Others use the location to jettison unwanted items.*' This section is no longer the boggy, misty nightmare it was in the early days of the trail, thanks to extensive paving.
+
+# Crowden to Standedge
+# Standedge to Calder Valley
+Day 3 includes the impressive monument at Stoodley Pike, above the town of Todmorden. Near the descent into the Calder Valley walkers have the option ot taking the Hebden Bridge Loop into the famous town.
+
+# Calder Valley to Ickornshaw
+# Ickornshaw to Malham
+# Malham to Horton-in-Ribblesdale
+The 6th day begins with Malham Cove, one of the hightlights of the Pennine Way. Towards the end of the day is the ascent of Pen-y-ghent (696m/2283ft) before descending into the village of Horton-in-Ribblesdale.
+# Horton-in-Ribblesdale to Hawes
+# Hawes to Keld
+# Keld to Tan Hill
+# Tan Hill to Middleton-in-Teesdale
+# Middleton-in-Teesdale to Dufton
+# Dufton to Alston
+# Alston to Greenhead
+# Greenhead to Bellingham
+# Bellingham to Byrness
+# Byrness to Kirk Yetholm (2 day section)
