@@ -13,7 +13,7 @@ Starting out at the Old Nag's Head public house in Edale, the trail begins with 
 
 # Crowden to Standedge
 # Standedge to Calder Valley
-Day 3 includes the impressive monument at Stoodley Pike, above the town of Todmorden. Near the descent into the Calder Valley walkers have the option ot taking the Hebden Bridge Loop into the famous town.
+Day 3 includes the impressive monument at Stoodley Pike, above the town of Todmorden. Near the descent into the Calder Valley walkers have the option of taking the Hebden Bridge Loop into the famous town. While Hebden Bridge was not part of the original Pennine Way it's earned its place as the birthplace of the [Walkers are Welcome](https://walkersarewelcome.org.uk/) scheme. It's a good place for a comfortable stay. If energy allows, a climb to the village of Heptonstall is worth the effort.
 
 # Calder Valley to Ickornshaw
 # Ickornshaw to Malham
