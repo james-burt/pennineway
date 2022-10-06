@@ -3,7 +3,7 @@ layout: page
 title: "The Route"
 permalink: /route/
 ---
-The Pennine Way can be comfortably divided up into 17 day-long stages
+The Pennine Way can be comfortably divided up into 17 day-long stages. According to wikipedia, the route includes 287 gates, 249 timber stiles, 183 stone stiles and 204 bridges; and the route provides 458 way marks.
 
 <!-- 
     - The first stage passes Kinder Scout, one of the most important places in the history of British walking.
