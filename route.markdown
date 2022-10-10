@@ -22,6 +22,7 @@ It's a steep climb out of the Calder Valley and onto Heptonstall Moor. The route
 
 # Ickornshaw to Malham (17 miles)
 ![Gargrave](/assets/gargrave.jpg)
+
 This section takes walkers from the Peak District to the Yorkshire Dales. The day's route passes through a number of small villages: Lothersdale and Thornton-in-Craven, East Marston and Gargrave. The last of these includes the famous Dalesman Cafe. From here, the route continues to Malham. It's worth taking the time while here to visit the impressive Gorsdale Scar. 
 
 # Malham to Horton-in-Ribblesdale (14½ miles)
