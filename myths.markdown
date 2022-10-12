@@ -7,13 +7,19 @@ There are numerous interesting sites along the Pennine Way. This page aims to co
 
 # Edale
 A short distance out of Edale there is a simple bench with a short poem carved into its seat:
-> Office Bustle for Leaves Rustle 
-> Mobiles Ringing for Birds Singing 
-> Lovers Rejection for Waters Reflection
+> Office Bustle for Leaves Rustle <br/>
+> Mobiles Ringing for Birds Singing <br/>
+> Lovers Rejection for Waters Reflection <br/>
 > Twenty-First Century for Glimpse of Eternity” 
  
 # Top Withens
 The ruins at Top Withens are said to be the inspiration for Wuthering Heights in the Emily Bronte novel. The sign placed there is fairly stern about this not being the case, but the site remains a pilgrimage place.
+
+# Tan Hill Inn
+Tan Hill Inn is the highest pub in the UK, and during winter can become completely cut off. During Storm Anwen in 2021, 61 guests and 7 staff were [trapped for several days](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-59459150) after seeing an Oasis tribute band. The Innhas featured in [an advert for Everest double-glazing](https://www.youtube.com/watch?v=MBPWJfq4dDA) as well as [the 2017 Waitrose Christmas advert](https://www.youtube.com/watch?v=in8XhKocXlM), which caused some controvery as Waitrose do not actually offer deliveries to that area,
+
+# Hannah's Meadows
+Hannah Hauxwell (1926-2018) was a farmer who became famous after the 1972 documentary [Too Long a Winter](https://www.youtube.com/watch?v=lC5WeuLHUdU), which described the harsh conditions faced by farmers in the High Pennines. Hauxwell ran Low Birk Hatt farm by herself with no electricity or running water. Later documentaries featured her travelling the world. Hauxwell's farm is now a nature reserve, [Hannah's Meadows](https://en.wikipedia.org/wiki/Hannah%27s_Meadows).
 
 # Greg's Hut
 Greg's Hut is a 19th century cottage that was renovated in 1969 as a shelter in memory of mountaineer John Gregory. During the Spine Race, this functions as the [highest noodle bar in the UK](https://hillcraftguidedwalking.com/2013/10/06/141-two-men-and-a-dog-and-the-highest-noodle-bar-in-the-uk/).

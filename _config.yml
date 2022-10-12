@@ -71,10 +71,10 @@ exclude:
 navigation_header:
 - title: Home
   url: /
-- title: About
-  url: /about/
 - title: The Route
   url: /route/
+- title: FAQ
+  url: /faq/
 - title: Resources
   url: /resources/
 - title: Myths & History
