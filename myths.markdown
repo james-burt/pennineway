@@ -11,9 +11,19 @@ A short distance out of Edale there is a simple bench with a short poem carved i
 > Mobiles Ringing for Birds Singing <br/>
 > Lovers Rejection for Waters Reflection <br/>
 > Twenty-First Century for Glimpse of Eternity” 
+
+# Bleaklow
+Near Bleaklow is the [wreckage of a B-29 Superfortress place](https://www.atlasobscura.com/places/b-29-over-exposed-crash-site) which crashed in November 1948. 
+
+It is said that the [ghosts of Roman soldiers](https://www.mysteriousbritain.co.uk/hauntings/bleaklow-head-and-surrounding-moorland/) can be seen on the moors near Bleaklow.
  
 # Top Withens
 The ruins at Top Withens are said to be the inspiration for Wuthering Heights in the Emily Bronte novel. The sign placed there is fairly stern about this not being the case, but the site remains a pilgrimage place.
+
+# Malham
+Malham Tarn is the setting for Charles Kingsley's novel *The Water Babies*, which was inspired by a stay at Malham Tarn House in 1958.
+
+More recently, Malham Cove was used as a filming location for *Harry Potter and the Deadly Hallows*. 
 
 # Tan Hill Inn
 Tan Hill Inn is the highest pub in the UK, and during winter can become completely cut off. During Storm Anwen in 2021, 61 guests and 7 staff were [trapped for several days](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-59459150) after seeing an Oasis tribute band. The Innhas featured in [an advert for Everest double-glazing](https://www.youtube.com/watch?v=MBPWJfq4dDA) as well as [the 2017 Waitrose Christmas advert](https://www.youtube.com/watch?v=in8XhKocXlM), which caused some controvery as Waitrose do not actually offer deliveries to that area,
