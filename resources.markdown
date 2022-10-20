@@ -24,6 +24,7 @@ Various companies provide package options for walking the trail, where all accom
 * [The Barefoot Backpacker](https://barefoot-backpacker.com/hiking-the-pennine-way/) (2019)
 * There is a [detailed account on pennineway.net](https://pennineway.net/) of the walk, including photos (2019)
 * [Jasmin Paris](http://jasminfellrunner.blogspot.com)'s account of her [2019 vistory in the Spine race](http://jasminfellrunner.blogspot.com/2020/01/spine-race.html) is a must-read. This is one of the most-gruelling races in the world, and Paris pulled off a stunning upset. (2019)
+* [penninewayers](https://penninewayers.wordpress.com/) describes what happened on Steve, Derek and Tim's second attempt to walk the Pennine Way after poor weather stopped their first attempt. (2015)
 * Martyn at trailplanner wrote his account of [completing the trail in 14 days](https://trailplanner.co.uk/england/pennine-way/) (2014)
 * [The Legs That Make Us](https://ashleykenyonwalk.blogspot.com/) was a 'performative journey' carried out by artists Tamara Ashley and Simone Kenyon along the Pennine Way (2006)
 
