@@ -56,4 +56,4 @@ This section includes a rollercoaster of hills along Hadrian's Wall before cutti
 A day of heather moorlands and forests before reaching the town of Byrness, which provided accommodation for forestry workers
 
 # Byrness to Kirk Yetholm (2 day section)
-The walk comes to an end with a stunning wild section through the Cheviots before descending to Kirk Yetholm on the Scottish border.
+The walk comes to an end with a stunning wild section through the Cheviots before descending to Kirk Yetholm on the Scottish border. As Wainwright wrote, "There is no brass band to greet you", but you will be a better person because you have walked the Pennine Way. 

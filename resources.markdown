@@ -42,4 +42,5 @@ Various companies provide package options for walking the trail, where all accom
 * The [Pennine Way Association](https://www.penninewayassociation.co.uk/) was [closed in 2016](https://www.penninewayassociation.co.uk/pwanews/closure-of-the-pwa-some-votes-of-thanks.html) but their website has been left up for the time being. This includes a 49-item [Pennine Way Bibliography](https://www.penninewayassociation.co.uk/further-reading).
 * The pennineway.org site has a [good list of links](https://pennineway.org/), including some packing lists and videos.
 * Tom Stephenson's article [Wanted - A Long Green Trail](https://www.skyware.co.uk/h2h/wanted.html) (June 22nd 1935) is considered to be initial inspiration for the Pennine Way.
+* [The Spine Race](www.thespinerace.com) is said to be the hardest race in Britain, a continuous run along the entire Pennine Way in the depths of Winter.
 
