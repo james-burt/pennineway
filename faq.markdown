@@ -16,6 +16,8 @@ Much of the Pennine Way's fearsome reputation comes from the walk's early days, 
 
 I've faced some grim days walking on the Pennine Way, but it's all seemed worthwhile once I'm dry and warm again. A bad day walking beats any day stuck in a office.
 
+![path.jpg](assets/path.jpg)
+
 # When is the best time to walk the Pennine Way
 Most people walk the trail between May and September, when the weather is relatively mild - walking the route during winter months can be extremely challenging. It is also good to avoid school holidays when there will be competition for accommodation in some places.
 
@@ -34,3 +36,5 @@ There are a number of packing guides online which can be found via a search engi
 * Waterproofs - even during the summer, the Pennine Way can throw out some interesting weather. 
 * A good rucksack with a rain cover
 * Decent walking boots
+
+![path2.jpg](assets/path2.jpg)
