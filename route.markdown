@@ -62,9 +62,10 @@ This is by far my favourite section of the trail. The day begins by following th
 | *High Cup Nick* |
 
 # Dufton to Alston
-This section includes Cross Fell (893m/2,930ft), the highest point of the Pennine Way.
+This section includes Cross Fell (893m/2,930ft), the highest point of the Pennine Way. The route passes Greg's Hut, a bothy. The remainder of the day, however, is spent in a rather dreary stomp along a track until reaching the small village of Garrigil, a short way beyond which is Alston.
 
 # Alston to Greenhead
+Much of this day is a riverside walk, with a great deal of stile-hopping, after which comes some boggy ground, which is only partially slabbed.. From Black Hill, the route descends to Greenhead. 
 
 # Greenhead to Bellingham
 This section includes a rollercoaster of hills along Hadrian's Wall before cutting north towards Scotland.
