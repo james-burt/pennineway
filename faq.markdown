@@ -9,6 +9,9 @@ The Pennine Way was the first British National Trail, and provides a satisfying 
 # How long does it take to walk the Pennine Way?
 Most people take between 14 and 21 days, although I have met someone who did the walk in 10 days. The record currently stands as 2 days, 10 hours, 4 minutes and 53 seconds, set by John Kelly in May 2021.
 
+# What distance is the Pennine Way?
+The Pennine Way includes 268 miles of footpath, but walkers are unlikely to travel all of this route. This includes the Bowes Loop, the diversion to climb the Cheviot, and the two alternative routes into Kirk Yetholm. The end-to-end distance is closer to 253 miles.
+
 # How hard is it?
 The Pennine Way can be challenging with some long days, and poor weather can make it worse. Having said that, conditions on the trail have improved substantially since the 80s, when people would find themselves lost and mired in nasty bogs. If you're confident to manage a couple of long days hiking then you'll probably manage the Pennine Way, as the body soon adjusts to the load. If you're not sure, then it's good to get experience, possibly on a shorter trail such as the Ridgeway or the South Downs Way.
 

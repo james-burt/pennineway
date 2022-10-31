@@ -13,7 +13,7 @@ Starting out at the Old Nag's Head public house in Edale, the trail begins with 
 Kinder Scout is famous as the site of the [Kinder Trespass](https://en.wikipedia.org/wiki/Mass_trespass_of_Kinder_Scout), an important milestone in the campaign for a right to roam. 
 
 # Crowden to Standedge (11 miles)
-The second day is somewhat shorter than the first, beginning with a long climb up a valley, and some sharp drops towards the top. From there the route crosses Black Hill towards the A635, where there may be a waiting food van. A series of reservoirs takes the route to the tiny village of Standedge, although more accommodation can be found a couple of miles away in Marsden.
+The second day is somewhat shorter than the first, beginning with a long climb up a valley, running alongside some large drops towards the top. From there, the route crosses Black Hill towards the A635, where there is sometimes a waiting food van. A series of reservoirs takes the route to the tiny village of Standedge, although more accommodation can be found a couple of miles away in Marsden.
 
 # Standedge to Calder Valley (14½ miles)
 Day 3 continues over moorland, with views of Oldham and Manchester. If things are timed correctly, it is possible to stop for lunch at the [White House Pub](https://thewhitehousepub.co.uk/). This section includes the impressive monument at Stoodley Pike, above the town of Todmorden. Near the descent into the Calder Valley, walkers have the option of taking the Hebden Bridge Loop into the town. While Hebden Bridge was not part of the original Pennine Way, it's earned its place as the birthplace of the [Walkers are Welcome](https://walkersarewelcome.org.uk/) scheme. It's a good place for a comfortable stay.
@@ -44,7 +44,7 @@ The sixth day begins with Malham Cove, one of the hightlights of the Pennine Way
 A day of following long stone walls, with relatively little climbing to reach the bustling town of Hawes, home to the Wensleydale Creamery.
  
 # Hawes to Tan Hill (16 miles)
-The day starts with the climb of Great Shunner Fell, before descending into Thwaite. The path comes close to Keld, where it crosses the Coast-to-Coast path. There are good views of the Nine Standard before the route meets the isolated [Tan Hill Inn](https://www.tanhillinn.com/) (528m/1,732ft) is the highest pub in the British Isles.
+The day starts with the climb of Great Shunner Fell, before descending into Thwaite. The path comes close to Keld, where it crosses the Coast-to-Coast path. There are good views of the Nine Standard before the route meets the isolated [Tan Hill Inn](https://www.tanhillinn.com/) (528m/1,732ft), the highest pub in the British Isles.
 
 # Tan Hill to Middleton-in-Teesdale (16½ miles)
 The walk enters the North Pennines, passing through Sleightholme Moor. There is the option here of taking the Bowes loop for a break.
@@ -55,7 +55,7 @@ The walk enters the North Pennines, passing through Sleightholme Moor. There is 
 |:--:| 
 | *High Cup Nick* |
 
-This is by far my favourite section of the trail. The day begins by following the river Tees, with the impressive waterfalls at Low Force and High Force. There is a section below cliffs leading to another waterfall at Cauldron Snout. The day finished with High Cup Nick, possibly one of the best views in England. 
+This is by far my favourite section of the trail. The day begins by following the river Tees, with the impressive waterfalls at Low Force and High Force. There is a section below cliffs leading to another waterfall at Cauldron Snout. The day finishes with High Cup Nick, possibly one of the best views in England. 
 
 | ![High Cup Nick](/assets/highcupnick.jpg) |
 |:--:| 
@@ -65,7 +65,7 @@ This is by far my favourite section of the trail. The day begins by following th
 This section includes Cross Fell (893m/2,930ft), the highest point of the Pennine Way. The route passes Greg's Hut, a bothy. The remainder of the day, however, is spent in a rather dreary stomp along a track until reaching the small village of Garrigil, a short way beyond which is Alston.
 
 # Alston to Greenhead
-Much of this day is a riverside walk, with a great deal of stile-hopping, after which comes some boggy ground, which is only partially slabbed.. From Black Hill, the route descends to Greenhead. 
+Much of this day is a riverside walk, with a great deal of stile-hopping, after which comes some boggy ground, which is only partially slabbed. From Black Hill, the route descends to Greenhead. 
 
 # Greenhead to Bellingham
 This section includes a rollercoaster of hills along Hadrian's Wall before cutting north towards Scotland.

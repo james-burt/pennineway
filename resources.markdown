@@ -25,8 +25,10 @@ Various companies provide package options for walking the trail, where all accom
 * There is a [detailed account on pennineway.net](https://pennineway.net/) of the walk, including photos (2019)
 * [Jasmin Paris](http://jasminfellrunner.blogspot.com)'s account of her [2019 vistory in the Spine race](http://jasminfellrunner.blogspot.com/2020/01/spine-race.html) is a must-read. This is one of the most-gruelling races in the world, and Paris pulled off a stunning upset. (2019)
 * [penninewayers](https://penninewayers.wordpress.com/) describes what happened on Steve, Derek and Tim's second attempt to walk the Pennine Way after poor weather stopped their first attempt. (2015)
+* [stottie walks](http://www.stottiewalks.walkingplaces.co.uk/pennine.htm) describes two hikes on the Pennine Way, the first in 1963 and the second 50 years later for the trail anniversay (2013/1963)
 * Martyn at trailplanner wrote his account of [completing the trail in 14 days](https://trailplanner.co.uk/england/pennine-way/) (2014)
 * [The Legs That Make Us](https://ashleykenyonwalk.blogspot.com/) was a 'performative journey' carried out by artists Tamara Ashley and Simone Kenyon along the Pennine Way (2006)
+* 50 Steps was a performance piece, subtitled 'Walking and Dancing the Pennine Way' which took place in 2015, but very little information is available online. The Northern Echo [has written about it](https://www.thenorthernecho.co.uk/culture/13382998.golden-days-dance/).
 
 # Video 
 * The Pennine Challenge ([Youtube link](https://www.youtube.com/playlist?list=PLmXMM9pFUbpiCv0mZjX7NUOqKFx2xO5JQ)) is a 1982 documentary about four young people walking the Pennine Way. The conditions they face in August gives an idea of how tricky the route could be before the flagstones were in place. It's also interesting to see how different documentaries were in the 80s.
@@ -37,6 +39,7 @@ Various companies provide package options for walking the trail, where all accom
 * [The Pennine Way: The Pennine Way: The Path, the People, the Journey](https://www.amazon.co.uk/Pennine-Way-Journey-Literature-Cicerone/dp/185284924X/) by Andrew McCloy is an account of the walk with a great deal of background information about the trail. Highly recommended.
 * [One Man and His Bog](https://www.amazon.co.uk/One-Man-His-Barry-Pilton/dp/0552127965/) is a book about travelling the Pennine Way in the 'bad old days' when the early stages did not have flagstones.  
 * [The Publishing History of Wainwright's Pennine Way Companion](https://www.alfredwainwright.co.uk/pennine-way-companion/). 
+* Leeds University Library holds the [Walking Home Archive](https://library.leeds.ac.uk/special-collections/view/1929), consisting of physical and digital materials relating to Simon Armitage's book Walking Home. Some of this material can be [viewed online](https://library.leeds.ac.uk/special-collections/view/1929).
 
 # Other links
 * The [Pennine Way Association](https://www.penninewayassociation.co.uk/) was [closed in 2016](https://www.penninewayassociation.co.uk/pwanews/closure-of-the-pwa-some-votes-of-thanks.html) but their website has been left up for the time being. This includes a 49-item [Pennine Way Bibliography](https://www.penninewayassociation.co.uk/further-reading).
