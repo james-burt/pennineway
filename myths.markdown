@@ -51,6 +51,9 @@ This waterfall was one of the shooting locations for Netflix's Witcher TV series
 # High Force
 At a height of 21m, High Force is Britain's biggest waterfall. There is another coin tree near here.
 
+# Cow Green Reservoir
+This valley was once thought to be home to Peg Powler, a spirit that dragged children into the water if they came too close to the edge. The froth on some parts of the River Tees was referred to as 'Peg Powler's Suds'.
+
 # Hannah's Meadows
 Hannah Hauxwell (1926-2018) was a farmer who became famous after the 1972 documentary [Too Long a Winter](https://www.youtube.com/watch?v=lC5WeuLHUdU), which described the harsh conditions faced by farmers in the High Pennines. Hauxwell ran Low Birk Hatt farm by herself with no electricity or running water. Later documentaries featured her travelling the world. Hauxwell's farm is now a nature reserve, [Hannah's Meadows](https://en.wikipedia.org/wiki/Hannah%27s_Meadows).
 

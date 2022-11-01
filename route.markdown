@@ -19,7 +19,7 @@ The second day is somewhat shorter than the first, beginning with a long climb u
 Day 3 continues over moorland, with views of Oldham and Manchester. If things are timed correctly, it is possible to stop for lunch at the [White House Pub](https://thewhitehousepub.co.uk/). This section includes the impressive monument at Stoodley Pike, above the town of Todmorden. Near the descent into the Calder Valley, walkers have the option of taking the Hebden Bridge Loop into the town. While Hebden Bridge was not part of the original Pennine Way, it's earned its place as the birthplace of the [Walkers are Welcome](https://walkersarewelcome.org.uk/) scheme. It's a good place for a comfortable stay.
 
 # Calder Valley to Ickornshaw (15½ miles)
-It's a steep climb out of the Calder Valley and onto Heptonstall Moor. The route passes some reservoirs as it travels through the moorland until reaching the ruined farmhouse at Top Withens, incorrectly claimed as the model for Wuthering Heights. It's possible to divert from here, via the Bronte waterfalls, to Haworth. Otherwise the route passes Ponden reservoir before rising up the valley-side to Ickornshaw.
+It's a steep climb out of the Calder Valley and onto Heptonstall Moor. On the way up, the path passes through Colden - a short way off the way is May's 'Aladdin's Cave', which sells a variety of useful items. Once on the tops, the route passes reservoirs until reaching the ruined farmhouse at Top Withens, incorrectly claimed as the model for Wuthering Heights. It's possible to divert from here, via the Bronte waterfalls, to Haworth. Otherwise the route passes Ponden reservoir and Ponden Hall, said to be the model for Thrushcross Grange in *Wuthering Heights*. It then rises up the valley-side to Ickornshaw.
 
 # Ickornshaw to Malham (17 miles)
 
@@ -44,7 +44,7 @@ The sixth day begins with Malham Cove, one of the hightlights of the Pennine Way
 A day of following long stone walls, with relatively little climbing to reach the bustling town of Hawes, home to the Wensleydale Creamery.
  
 # Hawes to Tan Hill (16 miles)
-The day starts with the climb of Great Shunner Fell, before descending into Thwaite. The path comes close to Keld, where it crosses the Coast-to-Coast path. There are good views of the Nine Standard before the route meets the isolated [Tan Hill Inn](https://www.tanhillinn.com/) (528m/1,732ft), the highest pub in the British Isles.
+Immediately after Hawes is the village of Hardraw. Through the Green Dragon pub it's possible to reach Hardraw Force waterfall, which is the highest single-drop waterfall in the UK. From there comes a climb to Great Shunner Fell, before descending into Thwaite. The path comes close to Keld, where it crosses the Coast-to-Coast path. There are good views of the Nine Standard before the route meets the isolated [Tan Hill Inn](https://www.tanhillinn.com/) (528m/1,732ft), the highest pub in the British Isles.
 
 # Tan Hill to Middleton-in-Teesdale (16½ miles)
 The walk enters the North Pennines, passing through Sleightholme Moor. There is the option here of taking the Bowes loop for a break.
@@ -68,7 +68,7 @@ This section includes Cross Fell (893m/2,930ft), the highest point of the Pennin
 Much of this day is a riverside walk, with a great deal of stile-hopping, after which comes some boggy ground, which is only partially slabbed. From Black Hill, the route descends to Greenhead. 
 
 # Greenhead to Bellingham
-This section includes a rollercoaster of hills along Hadrian's Wall before cutting north towards Scotland.
+This section includes a rollercoaster of hills along Hadrian's Wall before cutting north towards Scotland. Just before Bellingham comes Honeystead Farm where there is a pit-stop, providing shelter, kettle, and a fridge of soft drinks in return for a donation.
 
 # Bellingham to Byrness
 A day of heather moorlands and forests before reaching the town of Byrness, which provided accommodation for forestry workers.
