@@ -28,6 +28,7 @@ Various companies provide package options for walking the trail, where all accom
 * [stottie walks](http://www.stottiewalks.walkingplaces.co.uk/pennine.htm) describes two hikes on the Pennine Way, the first in 1963 and the second 50 years later for the trail anniversay (2013/1963)
 * Martyn at trailplanner wrote his account of [completing the trail in 14 days](https://trailplanner.co.uk/england/pennine-way/) (2014)
 * [The Legs That Make Us](https://ashleykenyonwalk.blogspot.com/) was a 'performative journey' carried out by artists Tamara Ashley and Simone Kenyon along the Pennine Way (2006)
+* [Pennine Way Walk](https://penninewaywalk.org.uk/pennineway4.htm) describes a charity walk on the trail by Catherine and Andy (2003?)
 * 50 Steps was a performance piece, subtitled 'Walking and Dancing the Pennine Way' which took place in 2015, but very little information is available online. The Northern Echo [has written about it](https://www.thenorthernecho.co.uk/culture/13382998.golden-days-dance/).
 
 # Video 
