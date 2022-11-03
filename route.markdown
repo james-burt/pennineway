@@ -19,7 +19,7 @@ The second day is somewhat shorter than the first, beginning with a long climb u
 Day 3 continues over moorland, with views of Oldham and Manchester. If things are timed correctly, it is possible to stop for lunch at the [White House Pub](https://thewhitehousepub.co.uk/). This section includes the impressive monument at Stoodley Pike, above the town of Todmorden. Near the descent into the Calder Valley, walkers have the option of taking the Hebden Bridge Loop into the town. While Hebden Bridge was not part of the original Pennine Way, it's earned its place as the birthplace of the [Walkers are Welcome](https://walkersarewelcome.org.uk/) scheme. It's a good place for a comfortable stay.
 
 # Calder Valley to Ickornshaw (15½ miles)
-It's a steep climb out of the Calder Valley and onto Heptonstall Moor. On the way up, the path passes through Colden - a short way off the way is May's 'Aladdin's Cave', which sells a variety of useful items. Once on the tops, the route passes reservoirs until reaching the ruined farmhouse at Top Withens, incorrectly claimed as the model for Wuthering Heights. It's possible to divert from here, via the Bronte waterfalls, to Haworth. Otherwise the route passes Ponden reservoir and Ponden Hall, said to be the model for Thrushcross Grange in *Wuthering Heights*. It then rises up the valley-side to Ickornshaw.
+It's a steep climb out of the Calder Valley and onto Heptonstall Moor. On the way up, the path passes through Colden - a short way off the way is May's 'Aladdin's Cave', which sells a variety of useful items. The path goes through Heptonstall, where there is a turn-off to [the Packhorse Inn](https://thepackhorseinn.co.uk/) which is an excellent place for a stop. The path then passes some reservoirs until reaching the ruined farmhouse at Top Withens, incorrectly claimed as the model for Wuthering Heights. It's possible to divert from here, via the Bronte waterfalls, to Haworth. Otherwise the route passes Ponden reservoir and [Ponden Hall](https://www.atlasobscura.com/places/ponden-hall), said to be the model for Thrushcross Grange in *Wuthering Heights*. It then rises up the valley-side to Ickornshaw.
 
 # Ickornshaw to Malham (17 miles)
 
@@ -27,7 +27,7 @@ It's a steep climb out of the Calder Valley and onto Heptonstall Moor. On the wa
 |:--:| 
 | *The Dalesman Cafe* |
 
-This section takes walkers from the Peak District to the Yorkshire Dales. The day's route passes through a number of small villages: Lothersdale and Thornton-in-Craven, East Marston and Gargrave. The last of these includes the famous Dalesman Cafe. From here, the route continues to Malham. It's worth taking the time while here to visit the impressive Gorsdale Scar. 
+This section takes walkers from the Peak District to the Yorkshire Dales. The day's route passes through a number of small villages: Lothersdale and Thornton-in-Craven, East Marston and Gargrave. From Lothersdale, the path climbs to Pinhaw Beacon from where Pen-y-ghent can be visible on a clear day. Gargrave includes the famous Dalesman Cafe. From here, the route continues to Malham. It's worth taking the time while here to visit the impressive Gorsdale Scar. 
 
 | ![Malham](/assets/malham.jpg) |
 |:--:| 
