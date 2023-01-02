@@ -39,7 +39,7 @@ Various companies provide package options for walking the trail, where all accom
 
 # Books about the Pennine Way
 * [The Pennine Way: The Pennine Way: The Path, the People, the Journey](https://www.amazon.co.uk/Pennine-Way-Journey-Literature-Cicerone/dp/185284924X/) by Andrew McCloy is an account of the walk with a great deal of background information about the trail. Highly recommended.
-* [One Man and His Bog](https://www.amazon.co.uk/One-Man-His-Barry-Pilton/dp/0552127965/) is a book about travelling the Pennine Way in the 'bad old days' when the early stages did not have flagstones.  
+* [One Man and His Bog](https://www.amazon.co.uk/One-Man-His-Barry-Pilton/dp/0552127965/) is a book about travelling the Pennine Way in the 'bad old days' when the early stages did not have flagstones. The writer did not seem to enjoy hiking very much. While the humour didn't work for me, the goodreads reviews suggest many people disagree with me. 
 * [The Publishing History of Wainwright's Pennine Way Companion](https://www.alfredwainwright.co.uk/pennine-way-companion/). 
 * Leeds University Library holds the [Walking Home Archive](https://library.leeds.ac.uk/special-collections/view/1929), consisting of physical and digital materials relating to Simon Armitage's book Walking Home. Some of this material can be [viewed online](https://library.leeds.ac.uk/special-collections/view/1929).
 
