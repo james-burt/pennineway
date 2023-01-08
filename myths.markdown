@@ -62,3 +62,5 @@ Greg's Hut is a 19th century cottage that was renovated in 1969 as a shelter in 
 
 # Cross Fell
 This was once known as 'Fiend's Fell', and believed to be inhabited by evil sprits until it was blessed by St. Augustine of Canterbury. Some say it was renamed Cross Fell to mark Christian tradition; others that the word 'cross' refers to the anger of the spirits.
+
+Cross Fell is home to [the Helm Wind](https://www.metoffice.gov.uk/weather/learn-about/weather/types-of-weather/wind/helm-wind), said by the Met Office to be the only named wind in the UK. This north-easterly wind can cause a helmet of cap of clouds to appear above Cross Fell.
